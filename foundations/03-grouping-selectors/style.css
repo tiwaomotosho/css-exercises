@@ -1,0 +1,15 @@
+/* Style.css */
+
+.Button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+  }
+
+.Button.b1 {
+    background-color: black;
+    color: white;
+  }
+
+.Button.b2 {
+    background-color: yellow;
+  }
